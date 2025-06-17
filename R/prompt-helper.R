@@ -16,7 +16,7 @@ system_prompt <- function(df, name, categorical_threshold = 10) {
 }
 
 df_to_schema <- function(df, name, categorical_threshold) {
-  schema <- c(paste("Table:", name), "Columns:")
+  schema <- c(paste0("Table:", "'PARQUET_SCAN('", name, ".parquet')"), "Columns:")
 
   column_info <- lapply(names(df), function(column) {
     # Map R classes to SQL-like types
@@ -26,6 +26,8 @@ df_to_schema <- function(df, name, categorical_threshold) {
       "FLOAT"
     } else if (is.logical(df[[column]])) {
       "BOOLEAN"
+    } else if (inherits(df[[column]], "Date")) {
+      "DATE"
     } else if (inherits(df[[column]], "POSIXt")) {
       "DATETIME"
     } else {
@@ -50,3 +52,5 @@ df_to_schema <- function(df, name, categorical_threshold) {
   schema <- c(schema, unlist(column_info))
   return(paste(schema, collapse = "\n"))
 }
+
+

@@ -1,0 +1,201 @@
+region,tail_number,pilot,mission,start_date,depart_airport,arrive_airport,cost,take_offs,landings
+AK,N356M,TROY R HAMON,51L : Animal - Survey/Counting/Census/Classification (Below 500# A,10/1/2022,PAKN,PAKN,$520.00 ,1,1
+AK,N473YC,STEVEN BELL,60N : Ferry Flight - Non-Fire,10/1/2022,PAFA,PAOM,$814.00 ,1,1
+AK,N796,KARA DELANA HILWIG,80F : Maintenance Flight (Non-Revenue) - Fire,10/1/2022,PALH,PADL,$858.00 ,1,1
+AK,N473YC,STEVEN BELL,18I : Reconnaissance (Above 500# AGL) - Habitat/Environmental Eval,10/2/2022,PAOM,PAOM,"$1,452.00 ",2,2
+AK,N701,JORDAN WILLIAM MURDOCK,70N : Pilot/Air Crew Training/Proficiency - Non-Fire,10/2/2022,KFCM,KFCM,$600.00 ,1,1
+AK,N796,KARA DELANA HILWIG,50L : Animal - Visual/Electronic Tracking (Below 500# AGL),10/2/2022,PADL,PADL,$572.00 ,1,1
+AK,N287L,DOMINIQUE E WATTS,60N : Ferry Flight - Non-Fire,10/3/2022,PASX,PALH,$234.00 ,2,2
+AK,N32PX,PAUL D ANDERSON,70N : Pilot/Air Crew Training/Proficiency - Non-Fire,10/3/2022,MRI,MRI,$352.00 ,1,1
+AK,N356M,TROY R HAMON,18E : Reconnaissance/Detection (Above 500# AGL) - Law Enforcement,10/3/2022,PAKN,PAKN,$156.00 ,1,1
+AK,N473YC,STEVEN BELL,18I : Reconnaissance (Above 500# AGL) - Habitat/Environmental Eval,10/3/2022,PAOM,PAOM,"$1,232.00 ",1,1
+AK,N567L,NATHAN A OLSON,50H : Animal - Visual/Electronic Tracking (Above 500# AGL),10/3/2022,PALH,PALH,$702.00 ,1,1
+AK,N618CC,EDWARD J MALLEK,80N : Maintenance Flight (Non-Revenue) - Non-Fire,10/3/2022,AK28,FAI,$91.00 ,3,3
+AK,N6352Z,CHRISTOPHER WILSON DANIELS,18N : Reconnaissance (Above 500’ AGL) - Non-Fire,10/3/2022,PAMR,PAMR,$308.00 ,4,4
+AK,N700FW,MICHAEL SCOTT FRANCIS,70N : Pilot/Air Crew Training/Proficiency - Non-Fire,10/3/2022,KBOI,KBOI,"$1,680.00 ",2,2
+AK,N720,ROBERT W SUNDOWN,90N : Other - Non-Fire,10/3/2022,PABE,PABE,$528.00 ,1,1
+AK,N774JC,DANIEL JOSEPH PEPIN,90N : Other - Non-Fire,10/3/2022,AKN,CDB,$715.00 ,1,1
+AK,N473YC,STEVEN BELL,18I : Reconnaissance (Above 500# AGL) - Habitat/Environmental Eval,10/4/2022,PAOM,PAOM,$572.00 ,1,1
+AK,N5143G,ROBERT W SUNDOWN,90N : Other - Non-Fire,10/4/2022,PABE,PABE,$858.00 ,1,1
+AK,N709M,JUSTIN R WISEMAN,10N : Point to Point - Non-Fire,10/4/2022,PAIN,MRI,$308.00 ,1,1
+AK,N9395N,TROY R HAMON,18I : Reconnaissance (Above 500# AGL) - Habitat/Environmental Eval,10/4/2022,PAKN,PAKN,$374.00 ,1,1
+AK,KKKK,DAVE SOWARDS,50H : Animal - Visual/Electronic Tracking (Above 500# AGL),10/5/2022,PAFA,PAFA,$770.00 ,1,1
+AK,N328CC,KARA DELANA HILWIG,80F : Maintenance Flight (Non-Revenue) - Fire,10/5/2022,PADL,PADL,$208.00 ,1,1
+AK,N473YC,STEVEN BELL,18I : Reconnaissance (Above 500# AGL) - Habitat/Environmental Eval,10/5/2022,PAOM,PAFA,$748.00 ,1,1
+AK,N5143G,TROY R HAMON,80N : Maintenance Flight (Non-Revenue) - Non-Fire,10/5/2022,PABE,PALH,"$1,419.00 ",1,1
+AK,N6352Z,ANDREW THOMAS MANKUS,80N : Maintenance Flight (Non-Revenue) - Non-Fire,10/5/2022,LHD,LHD,$220.00 ,4,4
+AK,N700FW,MICHAEL SCOTT FRANCIS,70N : Pilot/Air Crew Training/Proficiency - Non-Fire,10/5/2022,KBOI,KBOI,"$2,160.00 ",2,2
+AK,N720,ROBERT W SUNDOWN,90N : Other - Non-Fire,10/5/2022,PABE,PALH,"$1,419.00 ",1,1
+AK,N735HB,ALBERT P KEARNEY,80N : Maintenance Flight (Non-Revenue) - Non-Fire,10/5/2022,PALH,PAMR,$242.00 ,1,1
+AK,N7875D,ANDREW THOMAS MANKUS,70N : Pilot/Air Crew Training/Proficiency - Non-Fire,10/5/2022,PAMR,PAMR,$156.00 ,3,3
+AK,N7875D,ANDREW THOMAS MANKUS,80N : Maintenance Flight (Non-Revenue) - Non-Fire,10/5/2022,PAMR,PAMR,$26.00 ,1,1
+AK,N7875D,JAMES V WITTKOP,80N : Maintenance Flight (Non-Revenue) - Non-Fire,10/5/2022,PAMR,PAMR,$26.00 ,1,1
+AK,N9395N,TROY R HAMON,80N : Maintenance Flight (Non-Revenue) - Non-Fire,10/5/2022,PAKN,PABE,$528.00 ,1,1
+AK,N523M,BRADLEY D SCOTTON,19V : Reconnaissance (Below 500# AGL) - Habitat/Environmental Eval,10/3/2022,PAGA,PAGA,"$1,547.00 ",4,4
+AK,N527CC,DOMINIQUE E WATTS,50H : Animal - Visual/Electronic Tracking (Above 500# AGL),10/6/2022,PASX,PASX,$507.00 ,1,1
+AK,N527CC,DOMINIQUE E WATTS,80N : Maintenance Flight (Non-Revenue) - Non-Fire,10/6/2022,PASX,PASX,$156.00 ,1,1
+AK,N56581,NATHAN A OLSON,20N : Aerial Imagery - Infrared/Video/Photo/Mapping/GPS (Above 500,10/6/2022,PASX,PASX,$638.00 ,1,1
+AK,N6352Z,JAMES V WITTKOP,80N : Maintenance Flight (Non-Revenue) - Non-Fire,10/6/2022,PALH,PALH,$176.00 ,1,1
+AK,N700FW,MICHAEL SCOTT FRANCIS,70N : Pilot/Air Crew Training/Proficiency - Non-Fire,10/6/2022,KBOI,KBOI,"$1,520.00 ",1,1
+AK,N735HB,NATHAN A OLSON,50H : Animal - Visual/Electronic Tracking (Above 500# AGL),10/6/2022,PAMR,PAMR,$264.00 ,1,1
+AK,N216K,NICHOLAS A THOMPSON,10N : Point to Point - Non-Fire,10/3/2022,PAFA,PAMR,$390.00 ,1,1
+AK,N216K,NICHOLAS A THOMPSON,19E : Reconnaissance/Detection (Below 500# AGL) - Law Enforcement,10/3/2022,PAEG,PAFA,$312.00 ,1,1
+AK,N216K,NICHOLAS A THOMPSON,50L : Animal - Visual/Electronic Tracking (Below 500# AGL),10/3/2022,PAMR,PAMR,$247.00 ,1,1
+AK,N216K,NICHOLAS A THOMPSON,50L : Animal - Visual/Electronic Tracking (Below 500# AGL),10/3/2022,PAMR,PAMR,$247.00 ,1,1
+AK,N437CC,STEPHEN J MAZUR,18E : Reconnaissance/Detection (Above 500# AGL) - Law Enforcement,10/4/2022,PAFA,PAFA,$260.00 ,5,5
+AK,N437CC,STEPHEN J MAZUR,18E : Reconnaissance/Detection (Above 500# AGL) - Law Enforcement,10/4/2022,AK28,PAFA,$52.00 ,1,1
+AK,N437CC,STEPHEN J MAZUR,18E : Reconnaissance/Detection (Above 500# AGL) - Law Enforcement,10/4/2022,PAFA,AK28,$26.00 ,1,1
+AK,N523M,EDWARD J MALLEK,80N : Maintenance Flight (Non-Revenue) - Non-Fire,10/7/2022,AK28,FAI,$78.00 ,3,3
+AK,N534L,PAUL D ANDERSON,70N : Pilot/Air Crew Training/Proficiency - Non-Fire,10/7/2022,MRI,MRI,$221.00 ,1,1
+AK,N6352Z,JAMES V WITTKOP,80N : Maintenance Flight (Non-Revenue) - Non-Fire,10/7/2022,PALH,PALH,$176.00 ,1,1
+AK,N735HB,NATHAN A OLSON,70N : Pilot/Air Crew Training/Proficiency - Non-Fire,10/7/2022,PALH,PALH,$154.00 ,1,1
+AK,N618CC,BRADLEY D SCOTTON,50L : Animal - Visual/Electronic Tracking (Below 500# AGL),10/7/2022,PAGA,PAGA,$676.00 ,1,1
+AK,N618CC,BRADLEY D SCOTTON,60N : Ferry Flight - Non-Fire,10/7/2022,PAFA,PAGA,$429.00 ,1,1
+AK,N796,KARA DELANA HILWIG,16N : Personnel Transport - Non-Fire,10/8/2022,PADL,PADL,"$1,364.00 ",1,1
+AK,N700FW,MICHAEL SCOTT FRANCIS,70N : Pilot/Air Crew Training/Proficiency - Non-Fire,10/9/2022,KBOI,KBOI,"$2,640.00 ",1,1
+AK,N774JC,DANIEL JOSEPH PEPIN,90N : Other - Non-Fire,10/9/2022,CDB,CDB,$130.00 ,1,1
+AK,N187CC,JORDAN WILLIAM MURDOCK,80N : Maintenance Flight (Non-Revenue) - Non-Fire,10/10/2022,PALH,PALH,$91.00 ,1,1
+AK,N192CC,NICHOLAS A THOMPSON,10N : Point to Point - Non-Fire,10/10/2022,PAOT,AK28,$520.00 ,1,1
+AK,N700FW,MICHAEL SCOTT FRANCIS,70N : Pilot/Air Crew Training/Proficiency - Non-Fire,10/10/2022,KBOI,KBOI,"$2,080.00 ",1,1
+AK,N523M,EDWARD J MALLEK,14N : Cargo Transport - Internal - Non-Fire,10/11/2022,FAI,GAL,$468.00 ,1,1
+AK,N527CC,NATHAN A OLSON,20E : Aerial Imagery - Infrared/Video/Photo/Mapping/GPS (Above 500,10/11/2022,PASX,PASX,$676.00 ,1,1
+AK,N61473,NICHOLAS A THOMPSON,10N : Point to Point - Non-Fire,10/11/2022,PAFA,AK28,$44.00 ,1,1
+AK,N6352Z,RICHARD RICHOTTE,16N : Personnel Transport - Non-Fire,10/11/2022,PALH,PTA,$352.00 ,1,1
+AK,N706M,GARETH K VANHATTEN,90N : Other - Non-Fire,10/11/2022,PALH,9Z3,$484.00 ,1,1
+AK,N716M,GARETH K VANHATTEN,90N : Other - Non-Fire,10/8/2022,9Z3,9Z3,$968.00 ,3,3
+AK,N716M,GARETH K VANHATTEN,90N : Other - Non-Fire,10/11/2022,9Z3,9Z3,$528.00 ,1,1
+AK,N757,TROY R HAMON,80N : Maintenance Flight (Non-Revenue) - Non-Fire,10/11/2022,PAMR,PAKN,$506.00 ,1,1
+AK,N192CC,NICHOLAS A THOMPSON,80N : Maintenance Flight (Non-Revenue) - Non-Fire,10/12/2022,AK28,PAFA,$156.00 ,1,1
+AK,N32PX,WALKER M GUSSE,18E : Reconnaissance/Detection (Above 500# AGL) - Law Enforcement,10/12/2022,PALH,PAMR,$308.00 ,4,4
+AK,N32PX,WALKER M GUSSE,18E : Reconnaissance/Detection (Above 500# AGL) - Law Enforcement,10/12/2022,PAMR,PALH,$66.00 ,1,1
+AK,N32PX,WALKER M GUSSE,18E : Reconnaissance/Detection (Above 500# AGL) - Law Enforcement,10/12/2022,PAMR,PAMR,$264.00 ,7,7
+AK,N356M,TROY R HAMON,51L : Animal - Survey/Counting/Census/Classification (Below 500# A,10/12/2022,PAKN,PAKN,$598.00 ,1,1
+AK,N700FW,MICHAEL SCOTT FRANCIS,70N : Pilot/Air Crew Training/Proficiency - Non-Fire,10/12/2022,KBOI,KBOI,"$1,920.00 ",2,2
+AK,N774JC,DANIEL JOSEPH PEPIN,19E : Reconnaissance/Detection (Below 500# AGL) - Law Enforcement,10/12/2022,CDB,AKN,$611.00 ,1,1
+AK,N77554,BRETT A NIGUS,14N : Cargo Transport - Internal - Non-Fire,10/12/2022,PAFA,PAFA,$484.00 ,1,1
+AK,N7875D,ANDREW THOMAS MANKUS,19E : Reconnaissance/Detection (Below 500# AGL) - Law Enforcement,10/6/2022,PTA,PTA,$832.00 ,9,9
+AK,N7875D,ANDREW THOMAS MANKUS,60N : Ferry Flight - Non-Fire,10/6/2022,PAMR,PTA,$247.00 ,1,1
+AK,N1123F,DAVE SOWARDS,16N : Personnel Transport - Non-Fire,10/13/2022,PAFA,PAFA,"$1,144.00 ",1,1
+AK,N186L,PILOT UNKNOWN,16N : Personnel Transport - Non-Fire,10/4/2022,PAGK,PAGK,$403.00 ,2,2
+AK,N186L,PILOT UNKNOWN,80N : Maintenance Flight (Non-Revenue) - Non-Fire,10/4/2022,PAGK,PAGK,$26.00 ,3,3
+AK,N187CC,JORDAN WILLIAM MURDOCK,50H : Animal - Visual/Electronic Tracking (Above 500# AGL),10/11/2022,PALH,PAWS,$637.00 ,1,1
+AK,N187CC,JORDAN WILLIAM MURDOCK,50H : Animal - Visual/Electronic Tracking (Above 500# AGL),10/11/2022,PAWS,PASX,$143.00 ,1,1
+AK,N187CC,JORDAN WILLIAM MURDOCK,50H : Animal - Visual/Electronic Tracking (Above 500# AGL),10/11/2022,PAWS,PAWS,$286.00 ,1,1
+AK,N187CC,NATHAN A OLSON,50H : Animal - Visual/Electronic Tracking (Above 500# AGL),10/13/2022,PASX,PASX,$442.00 ,1,1
+AK,N216K,PAUL D ANDERSON,20N : Aerial Imagery - Infrared/Video/Photo/Mapping/GPS (Above 500,10/13/2022,MRI,MRI,$221.00 ,1,1
+AK,N328CC,KARA DELANA HILWIG,51L : Animal - Survey/Counting/Census/Classification (Below 500# A,10/11/2022,PADL,PADL,"$2,301.00 ",3,3
+AK,N351FW,MARK FREIHEIT,18N : Reconnaissance (Above 500’ AGL) - Non-Fire,10/13/2022,KLEE,KLEE,"$4,860.00 ",1,1
+AK,N356M,TROY R HAMON,18E : Reconnaissance/Detection (Above 500# AGL) - Law Enforcement,10/13/2022,PAKN,PAKN,$572.00 ,1,1
+AK,N437CC,NICHOLAS A THOMPSON,80N : Maintenance Flight (Non-Revenue) - Non-Fire,10/13/2022,PAFA,AK28,$26.00 ,1,1
+AK,N437CC,NICHOLAS A THOMPSON,80N : Maintenance Flight (Non-Revenue) - Non-Fire,10/13/2022,AK28,PAFA,$78.00 ,1,1
+AK,N527CC,DOMINIQUE E WATTS,20E : Aerial Imagery - Infrared/Video/Photo/Mapping/GPS (Above 500,10/13/2022,PASX,PASX,$546.00 ,1,1
+AK,N527CC,JORDAN WILLIAM MURDOCK,20N : Aerial Imagery - Infrared/Video/Photo/Mapping/GPS (Above 500,10/13/2022,PASX,PASX,$234.00 ,1,1
+AK,N527CC,NATHAN A OLSON,20N : Aerial Imagery - Infrared/Video/Photo/Mapping/GPS (Above 500,10/13/2022,PASX,PASX,$260.00 ,1,1
+AK,N56581,PAUL D ANDERSON,20N : Aerial Imagery - Infrared/Video/Photo/Mapping/GPS (Above 500,10/13/2022,PASX,PASX,$902.00 ,1,1
+AK,N6352Z,ANDREW THOMAS MANKUS,16N : Personnel Transport - Non-Fire,10/13/2022,PTA,PTA,$440.00 ,1,1
+AK,N700FW,MICHAEL SCOTT FRANCIS,70N : Pilot/Air Crew Training/Proficiency - Non-Fire,10/13/2022,KBOI,KBOI,$560.00 ,1,1
+AK,N706M,GARETH K VANHATTEN,90N : Other - Non-Fire,10/13/2022,9Z3,9Z3,$682.00 ,2,2
+AK,N757,DANIEL JOSEPH PEPIN,10N : Point to Point - Non-Fire,10/13/2022,PAKN,PALH,$440.00 ,1,1
+AK,N77554,BRETT A NIGUS,50L : Animal - Visual/Electronic Tracking (Below 500# AGL),10/13/2022,PAFA,PAFA,"$1,584.00 ",3,3
+AK,N9987N,RICHARD RICHOTTE,16N : Personnel Transport - Non-Fire,10/12/2022,PTA,PALH,$418.00 ,2,2
+AK,N9987N,RICHARD RICHOTTE,16N : Personnel Transport - Non-Fire,10/12/2022,PTA,PTA,$308.00 ,3,3
+AK,N216K,JUSTIN R WISEMAN,10N : Point to Point - Non-Fire,10/14/2022,MRI,MRI,$949.00 ,1,1
+AK,N356M,TROY R HAMON,51L : Animal - Survey/Counting/Census/Classification (Below 500# A,10/14/2022,PAKN,PAKN,$312.00 ,1,1
+AK,N523M,EDWARD J MALLEK,51L : Animal - Survey/Counting/Census/Classification (Below 500# A,10/14/2022,GAL,GAL,$780.00 ,1,1
+AK,N527CC,NATHAN A OLSON,20N : Aerial Imagery - Infrared/Video/Photo/Mapping/GPS (Above 500,10/14/2022,PASX,PALH,$260.00 ,1,1
+AK,N77554,BRETT A NIGUS,14N : Cargo Transport - Internal - Non-Fire,10/14/2022,PAFA,PAFA,$748.00 ,1,1
+AK,N794,DANIEL JOSEPH PEPIN,80N : Maintenance Flight (Non-Revenue) - Non-Fire,10/14/2022,LHD,LHD,$176.00 ,1,1
+AK,N9395N,ROBERT W SUNDOWN,80N : Maintenance Flight (Non-Revenue) - Non-Fire,10/14/2022,PABE,PABE,$110.00 ,1,1
+AK,N375F,HEATHER M WILSON,56M : Aerial Survey - Migratory Birds,10/4/2022,PACD,PACD,$814.00 ,1,1
+AK,N375F,HEATHER M WILSON,56P : Aerial Survey - Waterfowl Population,10/4/2022,PACD,PACD,$440.00 ,1,1
+AK,N375F,HEATHER M WILSON,56P : Aerial Survey - Waterfowl Population,10/4/2022,PACD,PACD,$792.00 ,1,1
+AK,N375F,HEATHER M WILSON,56P : Aerial Survey - Waterfowl Population,10/4/2022,PACD,PACD,$968.00 ,1,1
+AK,N375F,HEATHER M WILSON,56P : Aerial Survey - Waterfowl Population,10/4/2022,PACD,PACD,$792.00 ,1,1
+AK,N375F,HEATHER M WILSON,56P : Aerial Survey - Waterfowl Population,10/4/2022,PACD,PACD,$858.00 ,1,1
+AK,N375F,HEATHER M WILSON,56P : Aerial Survey - Waterfowl Population,10/4/2022,PACD,PACD,$704.00 ,1,1
+AK,N375F,HEATHER M WILSON,56P : Aerial Survey - Waterfowl Population,10/4/2022,PACD,PACD,$946.00 ,1,1
+AK,N375F,HEATHER M WILSON,56P : Aerial Survey - Waterfowl Population,10/4/2022,PACD,PACD,$506.00 ,1,1
+AK,N375F,HEATHER M WILSON,56P : Aerial Survey - Waterfowl Population,10/4/2022,PACD,PACD,$792.00 ,1,1
+AK,N700FW,MICHAEL SCOTT FRANCIS,70N : Pilot/Air Crew Training/Proficiency - Non-Fire,10/16/2022,KBOI,KBOI,"$2,000.00 ",2,2
+AK,N356M,TROY R HAMON,80N : Maintenance Flight (Non-Revenue) - Non-Fire,10/17/2022,PAKN,PAKN,$546.00 ,1,1
+AK,N375F,HEATHER M WILSON,56P : Aerial Survey - Waterfowl Population,10/17/2022,PACD,PACD,$704.00 ,1,1
+AK,N523M,BRADLEY D SCOTTON,51L : Animal - Survey/Counting/Census/Classification (Below 500# A,10/17/2022,PAGA,PAGA,$507.00 ,1,1
+AK,N61473,NICHOLAS A THOMPSON,80N : Maintenance Flight (Non-Revenue) - Non-Fire,10/17/2022,AK28,PAFA,$242.00 ,1,1
+AK,N700FW,MICHAEL SCOTT FRANCIS,70N : Pilot/Air Crew Training/Proficiency - Non-Fire,10/17/2022,KBOI,KBOI,"$1,920.00 ",4,4
+AK,N706M,GARETH K VANHATTEN,90N : Other - Non-Fire,10/17/2022,9Z3,FKCI,$132.00 ,1,1
+L48,HHHH,PILOT UNKNOWN,10N : Point to Point - Non-Fire,10/2/2022,KPIR,KBIS,$450.00 ,5,5
+L48,N104PS,SCOTT HOWARD TAYLOR,18E : Reconnaissance/Detection (Above 500# AGL) - Law Enforcement,10/2/2022,BIBE,BIBE,"$1,232.00 ",1,1
+L48,N162GC,CHRISTOPHER E SWISHER,45F : Aerial Supervision - ASM,10/2/2022,KSMX,KBOI,"$4,296.00 ",1,1
+L48,N162GC,CHRISTOPHER E SWISHER,45F : Aerial Supervision - ASM,10/2/2022,KBOI,KBOI,"$1,808.00 ",1,1
+L48,N618,PHILIP A SCHREFFLER,45F : Aerial Supervision - ASM,10/2/2022,KBOI,KDLN,"$1,611.00 ",1,1
+L48,HHHH,PILOT UNKNOWN,10N : Point to Point - Non-Fire,10/3/2022,KBIS,D05,$210.00 ,1,1
+L48,N22PP,CHRISTOPHER J PERKINS,18E : Reconnaissance/Detection (Above 500# AGL) - Law Enforcement,10/3/2022,DC03,DC03,"$3,960.00 ",2,2
+L48,N22PP,ROBERT R USHER,18E : Reconnaissance/Detection (Above 500# AGL) - Law Enforcement,10/3/2022,DC03,DC03,"$4,747.60 ",2,2
+L48,N242WB,PILOT UNKNOWN,10N : Point to Point - Non-Fire,10/3/2022,D05,KBIS,$320.00 ,1,1
+L48,N49SJ,DAR SCHMID,70N : Pilot/Air Crew Training/Proficiency - Non-Fire,10/3/2022,KBOI,KBOI,$510.00 ,1,1
+L48,IIII,NEIL KADRMAS,10N : Point to Point - Non-Fire,10/4/2022,D05,D05,$510.00 ,2,2
+L48,N22PP,ROBERT R USHER,80N : Maintenance Flight (Non-Revenue) - Non-Fire,10/4/2022,DC03,DC03,"$1,145.00 ",6,6
+L48,N242WB,PILOT UNKNOWN,10N : Point to Point - Non-Fire,10/4/2022,KBIS,KPIR,$840.00 ,4,4
+L48,N618,PILOT UNKNOWN,45F : Aerial Supervision - ASM,10/4/2022,KDLN,KBOI,"$1,341.00 ",1,1
+L48,N723,HAZEL GRACE MOORE,10N : Point to Point - Non-Fire,10/4/2022,KBOI,KRAP,"$2,052.00 ",1,1
+L48,N22PP,RYAN MATTHEW EVASICK,18E : Reconnaissance/Detection (Above 500# AGL) - Law Enforcement,10/5/2022,DC03,DC03,"$3,452.80 ",1,1
+L48,N22PP,RYAN MATTHEW EVASICK,18E : Reconnaissance/Detection (Above 500# AGL) - Law Enforcement,10/5/2022,DC03,DC03,"$3,884.40 ",1,1
+L48,N32PS,JERALD A FLOYD,16N : Personnel Transport - Non-Fire,10/3/2022,KPGA,KPGA,$882.00 ,1,1
+L48,N32PS,JERALD A FLOYD,18N : Reconnaissance (Above 500’ AGL) - Non-Fire,10/3/2022,KPGA,KPGA,$514.50 ,1,1
+L48,N618,PILOT UNKNOWN,45F : Aerial Supervision - ASM,10/5/2022,KBOI,KBOI,"$2,980.00 ",1,1
+L48,N618,PILOT UNKNOWN,45F : Aerial Supervision - ASM,10/5/2022,KBOI,KBOI,"$3,725.00 ",1,1
+L48,N723,HAZEL GRACE MOORE,70N : Pilot/Air Crew Training/Proficiency - Non-Fire,10/5/2022,KRAP,KFCM,"$1,596.00 ",1,1
+L48,N723,STEPHEN EUGENE BARLOW,70N : Pilot/Air Crew Training/Proficiency - Non-Fire,10/5/2022,KFCM,KIKK,"$1,311.00 ",1,1
+L48,N758,WALTER E RHODES,60N : Ferry Flight - Non-Fire,10/5/2022,KBOI,KRDM,$969.00 ,1,1
+L48,N162GC,CHRISTOPHER E SWISHER,45F : Aerial Supervision - ASM,10/6/2022,KBOI,KDLN,$904.00 ,1,1
+L48,N162GC,CHRISTOPHER E SWISHER,45F : Aerial Supervision - ASM,10/6/2022,KDLN,KBOI,"$1,017.00 ",1,1
+L48,N22PP,CHRISTOPHER J PERKINS,18E : Reconnaissance/Detection (Above 500# AGL) - Law Enforcement,10/6/2022,DC03,DC03,"$4,400.00 ",2,2
+L48,N22PP,CHRISTOPHER J PERKINS,18E : Reconnaissance/Detection (Above 500# AGL) - Law Enforcement,10/6/2022,DC03,DC03,"$2,061.00 ",2,2
+L48,N22PP,RYAN MATTHEW EVASICK,18E : Reconnaissance/Detection (Above 500# AGL) - Law Enforcement,10/6/2022,DC03,DC03,"$4,747.60 ",2,2
+L48,N618,PHILIP A SCHREFFLER,45F : Aerial Supervision - ASM,10/6/2022,KBOI,KBOI,"$3,278.00 ",1,1
+L48,N618,PHILIP A SCHREFFLER,45F : Aerial Supervision - ASM,10/6/2022,KBOI,KBOI,"$2,831.00 ",1,1
+L48,N723,STEPHEN EUGENE BARLOW,70N : Pilot/Air Crew Training/Proficiency - Non-Fire,10/6/2022,KIKK,KBGR,"$3,420.00 ",1,1
+L48,N728,SARAH FOLSOM YATES,70N : Pilot/Air Crew Training/Proficiency - Non-Fire,10/6/2022,SFM,SFM,$792.00 ,1,1
+L48,N206RW,JONATHAN E LINDLEY,80N : Maintenance Flight (Non-Revenue) - Non-Fire,10/7/2022,BOI,BOI,$240.00 ,1,1
+L48,N22PP,RYAN MATTHEW EVASICK,18E : Reconnaissance/Detection (Above 500# AGL) - Law Enforcement,10/7/2022,DC03,DC03,"$3,884.40 ",1,1
+L48,N242WB,PILOT UNKNOWN,20N : Aerial Imagery - Infrared/Video/Photo/Mapping/GPS (Above 500,10/7/2022,KPIR,KHVR,"$2,240.00 ",2,2
+L48,N758,WALTER E RHODES,56P : Aerial Survey - Waterfowl Population,10/7/2022,KLMT,KLMT,"$2,223.00 ",1,1
+L48,N758,WALTER E RHODES,56P : Aerial Survey - Waterfowl Population,10/7/2022,KLMT,KRDM,$741.00 ,1,1
+L48,N758,WALTER E RHODES,56P : Aerial Survey - Waterfowl Population,10/7/2022,KRDM,KLMT,$513.00 ,1,1
+L48,N242WB,PILOT UNKNOWN,20N : Aerial Imagery - Infrared/Video/Photo/Mapping/GPS (Above 500,10/8/2022,KHVR,KSBX,"$2,480.00 ",1,1
+L48,N22PP,RYAN MATTHEW EVASICK,18E : Reconnaissance/Detection (Above 500# AGL) - Law Enforcement,10/7/2022,DC03,DC03,"$1,832.00 ",1,1
+L48,N22PP,RYAN MATTHEW EVASICK,18E : Reconnaissance/Detection (Above 500# AGL) - Law Enforcement,10/7/2022,DC03,DC03,"$1,832.00 ",2,2
+L48,N22PP,RYAN MATTHEW EVASICK,18S : Reconnaissance (Above 500# AGL) - Search and Rescue,10/7/2022,DC03,DC03,"$3,435.00 ",3,3
+L48,N22PP,RYAN MATTHEW EVASICK,19S : Reconnaissance (Below 500# AGL) - Search and Rescue,10/7/2022,DC03,DC03,"$2,519.00 ",1,1
+L48,N22PP,RYAN MATTHEW EVASICK,63N : Medivac - Non-Fire,10/7/2022,DC03,DC03,"$2,748.00 ",3,3
+L48,N22PP,RYAN MATTHEW EVASICK,63N : Medivac - Non-Fire,10/7/2022,DC03,DC03,"$2,977.00 ",4,4
+L48,N242WB,PILOT UNKNOWN,20N : Aerial Imagery - Infrared/Video/Photo/Mapping/GPS (Above 500,10/9/2022,KSBX,KGTF,"$2,480.00 ",1,1
+L48,N22PP,ROBERT R USHER,18E : Reconnaissance/Detection (Above 500# AGL) - Law Enforcement,10/10/2022,DC03,DC03,"$9,240.00 ",2,2
+L48,N22PP,ROBERT R USHER,19S : Reconnaissance (Below 500# AGL) - Search and Rescue,10/10/2022,DC03,DC03,"$1,832.00 ",2,2
+L48,N242WB,PILOT UNKNOWN,20N : Aerial Imagery - Infrared/Video/Photo/Mapping/GPS (Above 500,10/10/2022,KGTF,KRAP,"$3,000.00 ",2,2
+L48,N545PS,GALEN L HOWELL,80N : Maintenance Flight (Non-Revenue) - Non-Fire,10/10/2022,KGCN,KGCN,$495.00 ,1,1
+L48,N242WB,PILOT UNKNOWN,10N : Point to Point - Non-Fire,10/11/2022,KRAP,KPIR,$440.00 ,3,3
+L48,N545PS,GALEN L HOWELL,16E : Personnel Transport - Law Enforcement,10/11/2022,KGCN,KGCN,$357.50 ,1,1
+L48,N22PP,ROBERT R USHER,18E : Reconnaissance/Detection (Above 500# AGL) - Law Enforcement,10/12/2022,DC03,DC03,"$6,474.00 ",1,1
+L48,N33PP,JEREMY JOSEPH BENTO,70N : Pilot/Air Crew Training/Proficiency - Non-Fire,10/6/2022,DC03,DC03,"$22,722.50 ",55,55
+L48,N769,MARK D KONEFF,56M : Aerial Survey - Migratory Birds,10/12/2022,KBGR,KBGR,$114.00 ,1,1
+L48,N104PS,SCOTT HOWARD TAYLOR,18I : Reconnaissance (Above 500# AGL) - Habitat/Environmental Eval,10/13/2022,BIBE,BIBE,$896.00 ,1,1
+L48,N132PS,BRYAN SHELTON,80N : Maintenance Flight (Non-Revenue) - Non-Fire,10/13/2022,X51,KTMB,$164.00 ,1,1
+L48,N190PE,ROBERT K MCCORMICK,70F : Pilot/Air Crew Training/Proficiency - Fire,10/13/2022,KBOI,KBOI,"$1,802.00 ",3,3
+L48,N49SJ,DAR SCHMID,70N : Pilot/Air Crew Training/Proficiency - Non-Fire,10/13/2022,KBOI,KBOI,$714.00 ,1,1
+L48,N49SJ,ROBERT K MCCORMICK,70F : Pilot/Air Crew Training/Proficiency - Fire,10/13/2022,KBOI,KBOI,"$1,836.00 ",1,1
+L48,N49SJ,ROBERT K MCCORMICK,70F : Pilot/Air Crew Training/Proficiency - Fire,10/13/2022,KBOI,KBOI,"$1,020.00 ",1,1
+L48,N723,MARK D KONEFF,56M : Aerial Survey - Migratory Birds,10/13/2022,KBGR,KBGR,$513.00 ,3,3
+L48,N206RW,TERRY JAMES PENA,70F : Pilot/Air Crew Training/Proficiency - Fire,10/14/2022,BOI,BOI,"$1,840.00 ",9,9
+L48,N32PS,JERALD A FLOYD,16N : Personnel Transport - Non-Fire,10/12/2022,KPGA,KPGA,"$1,739.50 ",3,3
+L48,N545PS,GALEN L HOWELL,18F : Reconnaissance/Detection (Above 500’ AGL) - Fire,10/14/2022,KGCN,KGCN,$577.50 ,1,1
+L48,N11PP,ROBERT R USHER,18E : Reconnaissance/Detection (Above 500# AGL) - Law Enforcement,10/4/2022,DC03,DC03,"$3,435.00 ",3,3
+L48,N11PP,ROBERT R USHER,28S : Hoist Operations (Operational) - Search and Rescue,10/4/2022,DC03,DC03,"$4,580.00 ",3,3
+L48,N11PP,ROBERT R USHER,63N : Medivac - Non-Fire,10/4/2022,DC03,DC03,"$1,832.00 ",3,3
+L48,N11PP,ROBERT R USHER,80N : Maintenance Flight (Non-Revenue) - Non-Fire,10/4/2022,DC03,DC03,"$3,664.00 ",10,10
+L48,HHHH,NEIL KADRMAS,56C : Aerial Survey - Conservation Easements,10/16/2022,D05,D05,"$2,340.00 ",1,1
+L48,HHHH,NEIL KADRMAS,56C : Aerial Survey - Conservation Easements,10/16/2022,D05,KBIS,"$2,160.00 ",4,4
+L48,JJJJ,JOHN M RAYFIELD,18E : Reconnaissance/Detection (Above 500# AGL) - Law Enforcement,10/17/2022,MBT,2M2,$282.00 ,1,1
+L48,N11PP,CHRISTOPHER J PERKINS,70N : Pilot/Air Crew Training/Proficiency - Non-Fire,10/17/2022,DC03,DC03,"$2,061.00 ",7,7
+L48,N11PP,ROBERT R USHER,18E : Reconnaissance/Detection (Above 500# AGL) - Law Enforcement,10/17/2022,DC03,DC03,"$4,747.60 ",3,3
+L48,N49SJ,ROBERT K MCCORMICK,70F : Pilot/Air Crew Training/Proficiency - Fire,10/17/2022,KBOI,KBOI,"$1,326.00 ",3,3

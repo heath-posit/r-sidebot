@@ -1,9 +1,9 @@
+# A Shiny app that includes a ChatGPT sidebot
+
+
+# Required packages
 library(shiny)
 library(bslib)
-# library(promises)
-# library(fastmap)
-# library(duckdb)
-# library(DBI)
 library(fontawesome)
 library(reactable)
 library(here)
@@ -11,15 +11,15 @@ library(plotly)
 library(ggplot2)
 library(ggridges)
 library(dplyr)
-# library(ellmer)
-# library(shinychat)
 library(querychat)
 
 source("./R/explain-plot.R")
 source("./R/import_format.R")
 
+# Load the data
 dat_in <- import_format()
 
+# Define the query chat handle
 querychat_handle <- querychat_init(
   df = dat_in,
   # This is the greeting that should initially appear in the sidebar when the app
@@ -28,14 +28,17 @@ querychat_handle <- querychat_init(
                        warn = FALSE),
   create_chat_func = purrr::partial(chat_azure,
                                     deployment_id = "gpt-4o",
-                                    endpoint = "https://openai-doichatgpt-dev.openai.azure.com/",
-                                    api_version = "2024-02-15-preview"),
+                                    endpoint = "https://openai-doichatgpt-dev.openai.azure.com/"),
+                                    # api_version = "turbo-2024-04-09"),
   system_prompt = readLines(here("prompt.md"),
                             warn = FALSE)
 )
 
+# Create icon
 icon_explain <- tags$img(src = "stars.svg")
 
+
+## Define the user interface
 ui <- page_sidebar(
   style = "background-color: rgb(248, 248, 248);",
   title = "Aviation Data",
@@ -90,16 +93,6 @@ ui <- page_sidebar(
             class = "me-3 text-decoration-none",
             aria_label = "Explain scatter plot"
           )
-          # popover(
-          #   title = "Add a color variable", placement = "top",
-          #   fa_i("ellipsis"),
-          #   radioButtons(
-          #     "scatter_color",
-          #     NULL,
-          #     c("none", "pilot"),
-          #     inline = TRUE
-          #   )
-          # )
         )
       ),
       plotlyOutput("histo")
@@ -116,17 +109,6 @@ ui <- page_sidebar(
             icon_explain,
             class = "me-3 text-decoration-none",
             aria_label = "Explain plot")
-          # popover(
-          #   title = "Split ridgeplot", placement = "top",
-          #   fa_i("ellipsis"),
-          #   radioButtons(
-          #     "tip_perc_y",
-          #     "Split by",
-          #     c("sex", "smoker", "day", "time"),
-          #     "day",
-          #     inline = TRUE
-          #   )
-          # )
         )
       ),
       plotOutput("bar_plot")
@@ -134,6 +116,7 @@ ui <- page_sidebar(
   )
 )
 
+# Define the server
 server <- function(input, output, session) {
   # 🔄 Reactive state/computation --------------------------------------------
 

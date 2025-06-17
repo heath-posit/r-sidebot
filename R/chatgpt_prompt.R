@@ -4,7 +4,7 @@ library(ellmer)
 chat <- chat_azure(
   deployment_id = "gpt-4o-mini",
   endpoint = "https://openai-doichatgpt-dev.openai.azure.com/",
-  api_version = "2024-02-15-preview",
+  # api_version = "2024-02-15-preview",
   system_prompt = "You are a professional data scientist with a preference for the tidyverse.")
 
 # Interactive chat console

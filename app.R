@@ -91,7 +91,7 @@ ui <- page_sidebar(
             "interpret_histo",
             icon_explain,
             class = "me-3 text-decoration-none",
-            aria_label = "Explain scatter plot"
+            aria_label = "Explain plot"
           )
         )
       ),

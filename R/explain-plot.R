@@ -1,7 +1,7 @@
 library(ggplot2)
 library(reticulate)
-virtualenv_create(".venv")
-reticulate::py_install("kaleido")
+# virtualenv_create(".venv")
+# reticulate::py_install("kaleido")
 library(ellmer)
 library(plotly)
 

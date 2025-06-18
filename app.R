@@ -26,10 +26,9 @@ querychat_handle <- querychat_init(
   # loads.
   greeting = readLines(here("greeting.md"),
                        warn = FALSE),
-  create_chat_func = purrr::partial(chat_azure,
-                                    deployment_id = "gpt-4o",
+  create_chat_func = purrr::partial(ellmer::chat_azure,
+                                    deployment_id = "gpt-4o-mini",
                                     endpoint = "https://openai-doichatgpt-dev.openai.azure.com/"),
-                                    # api_version = "turbo-2024-04-09"),
   system_prompt = readLines(here("prompt.md"),
                             warn = FALSE)
 )

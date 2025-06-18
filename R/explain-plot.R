@@ -1,5 +1,6 @@
 library(ggplot2)
 library(reticulate)
+reticulate::py_install("kaleido")
 library(ellmer)
 library(plotly)
 

@@ -1,4 +1,7 @@
 library(ggplot2)
+library(reticulate)
+library(ellmer)
+library(plotly)
 
 #' Convert a plot object to a PNG data URI
 #'
@@ -25,7 +28,7 @@ plot_to_img_content.ggplot <- function(p) {
   tmp <- tempfile(fileext = ".png")
   on.exit(unlink(tmp))
 
-  ggsave(tmp, p, width = 800, height = 600, units = "px", dpi = 100)
+  ggplot2::ggsave(tmp, p, width = 800, height = 600, units = "px", dpi = 100)
   ellmer::content_image_file(tmp, resize = "high")
 }
 

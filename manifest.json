@@ -182,6 +182,34 @@
         "Archs": "x64"
       }
     },
+    "RcppTOML": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.com",
+      "description": {
+        "Package": "RcppTOML",
+        "Type": "Package",
+        "Title": "'Rcpp' Bindings to Parser for \"Tom's Obvious Markup Language\"",
+        "Version": "0.2.2",
+        "Date": "2023-01-29",
+        "Author": "Dirk Eddelbuettel",
+        "Maintainer": "Dirk Eddelbuettel <edd@debian.org>",
+        "Description": "The configuration format defined by 'TOML' (which expands to\n \"Tom's Obvious Markup Language\") specifies an excellent format\n (described at <https://toml.io/en/>) suitable for both human editing\n as well as the common uses of a machine-readable format. This package\n uses 'Rcpp' to connect to the 'toml++' parser written by Mark Gillard\n to R.",
+        "SystemRequirements": "A C++17 compiler",
+        "BugReports": "https://github.com/eddelbuettel/rcpptoml/issues",
+        "URL": "http://dirk.eddelbuettel.com/code/rcpp.toml.html",
+        "Imports": "Rcpp (>= 0.11.5)",
+        "Depends": "R (>= 3.3.0)",
+        "LinkingTo": "Rcpp",
+        "Suggests": "tinytest",
+        "License": "GPL (>= 2)",
+        "NeedsCompilation": "yes",
+        "Packaged": "2023-01-29 21:10:46 UTC; edd",
+        "Repository": "CRAN",
+        "Date/Publication": "2023-01-29 22:12:06",
+        "Built": "R 4.4.2; x86_64-w64-mingw32; 2025-01-11 01:33:41 UTC; windows",
+        "Archs": "x64"
+      }
+    },
     "S7": {
       "Source": "CRAN",
       "Repository": "https://cran.rstudio.com",
@@ -2345,6 +2373,28 @@
         "Built": "R 4.4.2; ; 2025-01-11 03:46:17 UTC; windows"
       }
     },
+    "png": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.com",
+      "description": {
+        "Package": "png",
+        "Version": "0.1-8",
+        "Title": "Read and write PNG images",
+        "Author": "Simon Urbanek <Simon.Urbanek@r-project.org>",
+        "Maintainer": "Simon Urbanek <Simon.Urbanek@r-project.org>",
+        "Depends": "R (>= 2.9.0)",
+        "Description": "This package provides an easy and simple way to read, write and display bitmap images stored in the PNG format. It can read and write both files and in-memory raw vectors.",
+        "License": "GPL-2 | GPL-3",
+        "SystemRequirements": "libpng",
+        "URL": "http://www.rforge.net/png/",
+        "NeedsCompilation": "yes",
+        "Packaged": "2022-11-29 09:42:31 UTC; rforge",
+        "Repository": "CRAN",
+        "Date/Publication": "2022-11-29 11:12:53 UTC",
+        "Built": "R 4.4.0; x86_64-w64-mingw32; 2024-04-23 00:24:52 UTC; windows",
+        "Archs": "x64"
+      }
+    },
     "prettyunits": {
       "Source": "CRAN",
       "Repository": "https://cran.rstudio.com",
@@ -2817,6 +2867,38 @@
         "Repository": "CRAN",
         "Date/Publication": "2024-07-06 13:50:01 UTC",
         "Built": "R 4.4.1; ; 2024-11-02 02:56:32 UTC; windows"
+      }
+    },
+    "reticulate": {
+      "Source": "CRAN",
+      "Repository": "https://cran.rstudio.com",
+      "description": {
+        "Package": "reticulate",
+        "Type": "Package",
+        "Title": "Interface to 'Python'",
+        "Version": "1.40.0",
+        "Authors@R": "c(\n  person(\"Tomasz\", \"Kalinowski\", role = c(\"ctb\", \"cre\"),\n         email = \"tomasz@posit.co\"),\n  person(\"Kevin\", \"Ushey\", role = c(\"aut\"),\n         email = \"kevin@posit.co\"),\n  person(\"JJ\", \"Allaire\", role = c(\"aut\"), email = \"jj@posit.co\"),\n  person(\"RStudio\", role = c(\"cph\", \"fnd\")),\n  person(\"Yuan\", \"Tang\", role = c(\"aut\", \"cph\"),\n         email = \"terrytangyuan@gmail.com\",\n         comment = c(ORCID = \"0000-0001-5243-233X\")),\n  person(\"Dirk\", \"Eddelbuettel\", role = c(\"ctb\", \"cph\"),\n         email = \"edd@debian.org\"),\n  person(\"Bryan\", \"Lewis\", role = c(\"ctb\", \"cph\"),\n         email = \"blewis@illposed.net\"),\n  person(\"Sigrid\", \"Keydana\", role = c(\"ctb\"),\n         email = \"sigrid@posit.co\"),\n  person(\"Ryan\", \"Hafen\", role = c(\"ctb\", \"cph\"),\n         email = \"rhafen@gmail.com\"),\n  person(\"Marcus\", \"Geelnard\", role = c(\"ctb\", \"cph\"),\n         comment = \"TinyThread library, http://tinythreadpp.bitsnbites.eu/\")\n  )",
+        "Description": "Interface to 'Python' modules, classes, and functions. When calling\n    into 'Python', R data types are automatically converted to their equivalent 'Python'\n    types. When values are returned from 'Python' to R they are converted back to R\n    types. Compatible with all versions of 'Python' >= 2.7.",
+        "License": "Apache License 2.0",
+        "URL": "https://rstudio.github.io/reticulate/,\nhttps://github.com/rstudio/reticulate",
+        "BugReports": "https://github.com/rstudio/reticulate/issues",
+        "SystemRequirements": "Python (>= 2.7.0)",
+        "Encoding": "UTF-8",
+        "Depends": "R (>= 3.5)",
+        "Imports": "Matrix, Rcpp (>= 1.0.7), RcppTOML, graphics, here, jsonlite,\nmethods, png, rappdirs, utils, rlang, withr",
+        "Suggests": "callr, knitr, glue, cli, rmarkdown, pillar, testthat",
+        "LinkingTo": "Rcpp",
+        "RoxygenNote": "7.3.2",
+        "VignetteBuilder": "knitr",
+        "Config/build/compilation-database": "true",
+        "NeedsCompilation": "yes",
+        "Packaged": "2024-11-14 18:35:01 UTC; tomasz",
+        "Author": "Tomasz Kalinowski [ctb, cre],\n  Kevin Ushey [aut],\n  JJ Allaire [aut],\n  RStudio [cph, fnd],\n  Yuan Tang [aut, cph] (<https://orcid.org/0000-0001-5243-233X>),\n  Dirk Eddelbuettel [ctb, cph],\n  Bryan Lewis [ctb, cph],\n  Sigrid Keydana [ctb],\n  Ryan Hafen [ctb, cph],\n  Marcus Geelnard [ctb, cph] (TinyThread library,\n    http://tinythreadpp.bitsnbites.eu/)",
+        "Maintainer": "Tomasz Kalinowski <tomasz@posit.co>",
+        "Repository": "CRAN",
+        "Date/Publication": "2024-11-15 01:20:02 UTC",
+        "Built": "R 4.4.2; x86_64-w64-mingw32; 2025-02-09 02:41:37 UTC; windows",
+        "Archs": "x64"
       }
     },
     "rlang": {
@@ -3804,7 +3886,7 @@
   },
   "files": {
     "app.R": {
-      "checksum": "21687f07f6d3473c282dda34bf000f63"
+      "checksum": "086744a7a88f79d00c5a2f659e755c8a"
     },
     "chat/chat.css": {
       "checksum": "3ead578861c1438692cfbfe635c3ad8e"
@@ -3824,9 +3906,6 @@
     "data/dat.csv": {
       "checksum": "6275355cd11fa7cbfbc1214e3cd23855"
     },
-    "data/dat_2023.csv": {
-      "checksum": "36f6f6b1c36c21fa19c579061f009db3"
-    },
     "greeting.md": {
       "checksum": "f49e1d1d8da5814ce69b5e0a13d8f26c"
     },
@@ -3840,16 +3919,16 @@
       "checksum": "68092e9bcbf487caeda539d436163f49"
     },
     "R/chatgpt_prompt.R": {
-      "checksum": "d19a375856102d1f3f39b1d87dc9187b"
+      "checksum": "42209dd8f30fec34622ccf44b4d07de6"
     },
     "R/explain-plot.R": {
-      "checksum": "f9965c3f9970f37a87bfab50aa56c0c0"
+      "checksum": "00e0cc68a10476be08f96040919bb0bf"
     },
     "R/import_format.R": {
       "checksum": "031d2acf044631a1dfcc656d8afe37ff"
     },
     "R/prompt-helper.R": {
-      "checksum": "e13077502ba4c407902cd8d14e13b6e9"
+      "checksum": "cafd3e6e74d11ab1c71e9dec766af599"
     },
     "README.md": {
       "checksum": "14ec2ad1ae153e2c34f09c59f138f74e"

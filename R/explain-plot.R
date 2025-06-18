@@ -1,9 +1,11 @@
 library(ggplot2)
 library(reticulate)
-# virtualenv_create(".venv")
-# reticulate::py_install("kaleido")
 library(ellmer)
 library(plotly)
+
+# Python package
+reticulate::import("plotly")
+reticulate::import("kaleido")
 
 #' Convert a plot object to a PNG data URI
 #'

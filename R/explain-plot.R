@@ -4,8 +4,8 @@ library(ellmer)
 library(plotly)
 
 # Python package
-reticulate::import("plotly")
-reticulate::import("kaleido")
+# reticulate::import("plotly")
+# reticulate::import("kaleido")
 
 #' Convert a plot object to a PNG data URI
 #'

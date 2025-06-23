@@ -1,0 +1,13 @@
+name: r-sidebot-test
+title: r-sidebot-test
+username: mccrea_cobb@fws.gov
+account: mccrea_cobb@fws.gov
+server: das.ecosphere.fws.gov
+hostUrl: https://das.ecosphere.fws.gov/__api__
+appId: 157
+bundleId: 1001
+url: https://das.ecosphere.fws.gov/content/6d11fdba-2597-412b-89d5-c2ecdbf3cf1d/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .Rprofile|R/chatgpt_prompt.R|R/setup_venv.R

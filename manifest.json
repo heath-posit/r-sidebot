@@ -3823,8 +3823,8 @@
     }
   },
   "files": {
-    ".Renviron": {
-      "checksum": "0981f1c3f2d7060d48086c48215047cf"
+    ".Rprofile": {
+      "checksum": "08a9a5dfcdec520e9c5bd6fa16679fb1"
     },
     "app.R": {
       "checksum": "086744a7a88f79d00c5a2f659e755c8a"
@@ -3878,7 +3878,7 @@
       "checksum": "14ec2ad1ae153e2c34f09c59f138f74e"
     },
     "requirements.txt": {
-      "checksum": "f27d7f3ce2b6c7eb19ff82ee1254886c"
+      "checksum": "a9bf1e82acfe602c74f96ca99e4c3ae4"
     },
     "scripts/setup.R": {
       "checksum": "7c39c77920881e7edfd489cfc8f6f23d"

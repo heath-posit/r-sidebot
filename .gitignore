@@ -3,6 +3,5 @@
 .RData
 .Ruserdata
 .Renviron
-.venv
 .Renviron
 setup_venv.R

@@ -26,11 +26,11 @@ querychat_handle <- querychat_init(
   # loads.
   greeting = readLines(here("greeting.md"),
                        warn = FALSE),
-  create_chat_func = purrr::partial(ellmer::chat_azure,
-                                    deployment_id = "gpt-4o-mini",
-                                    endpoint = "https://openai-doichatgpt-dev.openai.azure.com/"),
-  system_prompt = readLines(here("prompt.md"),
-                            warn = FALSE)
+#  create_chat_func = purrr::partial(ellmer::chat_azure,
+#                                    deployment_id = "gpt-4o-mini",
+#                                    endpoint = "https://openai-doichatgpt-dev.openai.azure.com/"),
+#  system_prompt = readLines(here("prompt.md"),
+#                            warn = FALSE)
 )
 
 # Create icon
